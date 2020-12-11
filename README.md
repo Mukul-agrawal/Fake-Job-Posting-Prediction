@@ -4,4 +4,15 @@ About the Project: We see a daily rise in these fake job postings where the post
 # Prediction
 We have compared machine learning algorithm. We use the algorithm which give the best accuracy.
 
+# Instructions to Execute 
+1. Use Spyder(Anaconda) software to run this program.
+2. run the file  Fake-Job-Post-Prediction.py
+3. Then load the dataset fake_job_postings in Fake-Job-Post-Prediction.py file and run the program.
+4. You will see a GUI.
+5. In the interface you will have to fill all the required details related job post.
+6. After filling all the details click on the show button and you will see the results.
+
+
+
+
 
