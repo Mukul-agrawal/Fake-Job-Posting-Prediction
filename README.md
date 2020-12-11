@@ -9,7 +9,7 @@ We have compared machine learning algorithm. We use the algorithm which give the
 2. run the file  Fake-Job-Post-Prediction.py
 3. Then load the dataset fake_job_postings in Fake-Job-Post-Prediction.py file and run the program.
 4. You will see a GUI.
-5. In the interface you will have to fill all the required details related job post.
+5. In the interface you will have to fill all the required details related job post(You can also enter the job post from sample job post file which consist real and fake job posts).
 6. After filling all the details click on the show button and you will see the results.
 
 
